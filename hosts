@@ -1,5 +1,3 @@
-127.0.0.1       localhost
-::1             ip6-localhost
 143.204.82.126      api.themoviedb.org
 99.86.7.63               image.tmdb.org
 99.84.130.66           themoviedb.org
@@ -17,3 +15,5 @@
 13.226.244.124             api.themoviedb.org
 13.226.244.10              api.themoviedb.org
 143.244.50.212            image.tmdb.org
+127.0.0.1       localhost
+::1             ip6-localhost
